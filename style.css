@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    width: 562px;
+    margin: 88px auto;
+    padding: 76px 63px 45px 56px;
+    background-color: #fafafa;
+    border-radius: 20px;
+    border: 1px solid #dcdcdc;
+}
+img {
+    width: 238px;
+    display: block;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 21px;
+}
+p {
+    font-size: 19px;
+    margin-top: 24px;
+    margin-bottom: 41px;
+}
+a {
+    float: right;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #5076ff;
+}
