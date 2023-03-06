@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-div {
+.card {
     width: 562px;
     margin: 88px auto;
     padding: 76px 63px 45px 56px;
@@ -11,22 +11,22 @@ div {
     border-radius: 20px;
     border: 1px solid #dcdcdc;
 }
-img {
+.card__img {
     width: 238px;
     display: block;
     margin: 0 auto;
 }
-h1 {
+.card__heading {
     font-size: 30px;
     margin-top: 50px;
     margin-bottom: 21px;
 }
-p {
+.card__text {
     font-size: 19px;
     margin-top: 24px;
     margin-bottom: 41px;
 }
-a {
+.btn {
     float: right;
     font-size: 20px;
     font-weight: 500;
